@@ -9,7 +9,7 @@
 ## お問い合わせ
 ご質問・不具合報告・ご要望がございましたら、以下のいずれかの方法でご連絡ください。
 - **メール**: furansisc2035@gmail.com
-- **GitHub Issues**: [こちらから報告](https://github.com/kimuraSE/moyalog-support/issues)
+- **GitHub Issues**: [こちらから報告](https://github.com/kimuraSE/moyalog-supprt/issues)
 
 ## プライバシーポリシー
 もやログはすべてのデータを端末内にのみ保存します。外部サーバーへのデータ送信は一切行いません。
